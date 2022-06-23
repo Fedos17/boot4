@@ -86,3 +86,27 @@ body, html {
     font-size: 2em;
     margin: 1em;
 }
+
+/*.sect_img{*/
+/*    width: 300px;*/
+/*}*/
+
+#fixed {
+    height: 400px;
+    border-top: 4px solid #f0f0;
+    border-top: 4px solid #f0f0;
+    background: url("logo/backgraund.jpg") no-repeat center center fixed;
+    /*background-blend-mode: multiply;*/
+    /*background-color: lightblue;*/
+    /*-o-background-size: cover;*/
+}
+
+#btn-On{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#gifs img{
+    max-width: 100%;
+    max-height: 100%;
+}
